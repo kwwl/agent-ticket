@@ -1,0 +1,5 @@
+Génère 5 mails différents, tous appartenant à des catégories variées (1 mail par catégorie) parmi les catégories définies dans le contexte.
+Pour chaque mail, produis un dictionnaire contenant le sujet, le contenu, et la catégorie du ticket.
+Le contenu doit être un texte complet, rédigé en français naturel, et donner suffisamment de détails pour que l’étudiant comprenne la situation.
+Assure-toi que les 5 mails soient très différents les uns des autres, tant dans le ton que dans le type de problème présenté.
+Ne produis rien d’autre que le JSON final.

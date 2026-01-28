@@ -143,6 +143,10 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+credentials.json
+token.pickle
+.env
+ground_truth.csv
 
 # Spyder project settings
 .spyderproject
